@@ -1,0 +1,19 @@
+{
+  "asi"       : false,
+  "bitwise"   : false,
+  "curly"     : true,
+  "eqeqeq"    : true,
+  "esnext"    : true,
+  "forin"     : true,
+  "freeze"    : true,
+  "immed"     : true,
+  "latedef"   : true,
+  "newcap"    : true,
+  "noarg"     : true,
+  "node"      : true,
+  "nonew"     : true,
+  "quotmark"  : "single",
+  "trailing"  : true,
+  "undef"     : true,
+  "unused"    : "vars"
+}
