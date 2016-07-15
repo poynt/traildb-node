@@ -1,6 +1,6 @@
 {
   "name": "traildb",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Node.js bindings for TrailDB",
   "main": "index.js",
   "scripts": {
